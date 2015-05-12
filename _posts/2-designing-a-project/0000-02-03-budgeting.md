@@ -1,13 +1,14 @@
 ---
 layout: page
-title: "Budgeting"
-category: designing-a-project
-date: 0000-02-03 13:20:10
+title: Budgeting
+category: "designing-a-project"
+date: {}
+published: true
 ---
 
 >Do we have a line item for that? Oops....
 
-Sometimes, treating data responsibly in your project will cost money and resources. If it's too late to include responsible data considerations in the budget, you will be in the awkward (and potentially dangerous) position of deciding whether or not to be responsible; this could mean compromising on other goals, or coming up with makeshift approaches that may be unsustainable. Plan ahead for those budget lines that often are easily forgotten.
+Sometimes, treating data responsibly in your project will cost money and resources. If it's too late to include responsible data considerations in the budget, you will be in the awkward (and potentially dangerous) position of deciding whether or not to be responsible; this could mean compromising on other goals, or coming up with makeshift approaches that may be unsustainable. Plan ahead for those budget lines that often are easily forgotten. 
 
 ##Technology
 
@@ -17,11 +18,11 @@ Does this technology meet your responsible data needs in terms of accessibility 
 
 ##Support
 
-Whenever you are relying on an external provider, especially for hosting or software, you will need support. There may be things that don't work, and there will be things that you only realise you will need after using a system for a longer time. Make sure that this support is covered in the agreement with your provider, or negotiate a support package included in the budget. Ensure that service levels and response times are appropriate for your way of working (eg. a 9-5pm solution for the UK may not be ideal if you are a real time crisis mapping organisation with a global footprint.)
+Whenever you are relying on an external provider, especially for hosting or software, you will need support. There may be things that don't work, and there will be things that you only realise you will need after using a system for a longer time. Make sure that this support is covered in the agreement with your provider, or negotiate a support package included in the budget. Ensure that service levels and response times are appropriate for your way of working (eg. a 9-5pm solution for the UK may not be ideal if you are a real time crisis mapping organisation with a global footprint.) 
 
-Failing to think about these things in advance brings the risk that you will be running a system that you have considerable second-thoughts or grievances about, just because you cannot pay your provider more. As a business, they may well be unable to provide this support on a pro-bono basis, no matter how urgent or critical the need. Be sure to request non-standard packages that work for you; most providers offer non-profit rates and/or are able to support a fair price especially if their wider pool of customers can benefit from the tweaks or system improvements from your feedback and advice.
+Failing to think about these things in advance brings the risk that you will be running a system that you have considerable second-thoughts or grievances about, just because you cannot pay your provider more. As a business, they may well be unable to provide this support on a pro-bono basis, no matter how urgent or critical the need. Be sure to request non-standard packages that work for you; most providers offer non-profit rates and/or are able to support a fair price especially if their wider pool of customers can benefit from the tweaks or system improvements from your feedback and advice. 
 
-###CASE STUDY: Vendor Abandonment or Planning for Emergency Data Migration
+##CASE STUDY: Vendor Abandonment or Planning for Emergency Data Migration
 
 An NGO has an internal policy of using free and open-source applications for data collection, mainly because of the accessibility factor (low/no cost). Many of this NGO's projects have invested in using this application to design their project workflows, and have stored large amounts of data on the application server. The group who created the application decided to abandon the work for a new venture and the existing application was left unsupported. This resulted in the NGO losing access to their data for over a month during an emergency. Beneficiaries who had come to depend on the NGO's projects were left without service provision during a time of crisis. If the lack of vendor support was identified in the risk assessment, it's possible emergency/contingency planning could have allowed for a quicker recovery (e.g. emergency data migration) from this unfortunate situation.  
 
@@ -33,10 +34,10 @@ Storing and hosting your data does not come for free and it is important to cons
 
 Making sure that the people in your organisation have the skills they need is an essential, though often ignored, part of a project. This involves identifying the skills that need to be associated with specific people and specific roles, but also ensuring that no mission-critical skills are siloed with one particular 'expert' on a topic - what happens if they leave?
 
-- Do staff need security awareness training before setting out on data collection?
-- Do your project managers have adequate data literacy skills?
-- What do technical staff need to know about the communities you are working with, for example when designing the technical infrastructure you'll be using?
-- Addressing these kinds of questions when designing a project can help to enable appropriate responses to responsible data challenges, as well as generally ensure project sustainability and professional development for supporting staff.
+Do staff need security awareness training before setting out on data collection?
+Do your project managers have adequate data literacy skills? 
+What do technical staff need to know about the communities you are working with, for example when designing the technical infrastructure you'll be using?
+Addressing these kinds of questions when designing a project can help to enable appropriate responses to responsible data challenges, as well as generally ensure project sustainability and professional development for supporting staff.
 
 Ongoing training can also be an important investment, to manage the risks posed by staff turnover and changing contexts.
 
@@ -46,7 +47,7 @@ Even with the very best planning, emergency situations may arise that will need 
 
 - recently changed threatening legislation
 - government crackdowns
-- violent acts and injury
+- violent acts and injury 
 - imprisonment
 - loss of equipment
 - vendor abandonment
