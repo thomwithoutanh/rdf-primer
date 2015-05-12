@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Data Management Resources"
-category: additional-resources
-date: 0000-08-03 13:20:10
+title: Data Management Resources
+category: "additional-resources"
+date: {}
+published: true
 ---
+
 **De-identification Maturity Model (Privacy Analytics)**
 http://waelhassan.com/wp-content/uploads/2013/06/DMM-Khaled-El-Emam-Wael-Hassan.pdf
 
@@ -22,7 +24,7 @@ https://learn.equalit.ie/wiki/Responsible_Data_Forum_on_Hosting
 **On setting up a secure hosting provider, see**
 https://learn.equalit.ie/wiki/Secure_hosting_guide
 
-**Tactical Tech's Security in a Box chapter on protecting physical assets**
+**Security in a Box chapter on protecting physical assets**
 https://securityinabox.org/chapter-2
 
 **OECD Privacy Principles**
