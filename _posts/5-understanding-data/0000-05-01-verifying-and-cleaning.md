@@ -20,8 +20,8 @@ Why is this important in the responsible data perspective? Ensuring the data you
 
 Similarly, when working with digital data, you can:
 
-- Backup an exact copy. For example, using disk imaging software (http://en.wikipedia.org/wiki/Disk_image)
-- Verify you are using an exact copy of the original. For example, using file verification techniques (http://en.wikipedia.org/wiki/File_verification)
+- Backup an exact copy. For example, using [disk imaging software](http://en.wikipedia.org/wiki/Disk_image).
+- Verify you are using an exact copy of the original, for example by using [file verification techniques](http://en.wikipedia.org/wiki/File_verification).
 
 For more on data integrity, please see the Data Management section of A Home for Healthy Data.
 
