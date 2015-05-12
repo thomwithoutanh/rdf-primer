@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Understanding Data Resources"
-category: additional-resources
-date: 0000-08-05 13:20:10
+title: Understanding Data Resources
+category: "additional-resources"
+date: {}
+published: true
 ---
+
 **A gentle introduction to cleaning data (School of Data)**
 http://schoolofdata.org/handbook/courses/data-cleaning/
 
@@ -11,7 +13,7 @@ http://schoolofdata.org/handbook/courses/data-cleaning/
 http://schoolofdata.org/handbook/courses/gentle-introduction-exploring-and-understanding-data/  
 
 **Data QualYtI: Do you trust your data?**
-an article Hjusein Tjurkmen, Mariyana Hristova, Musala Soft
+an article Hjusein Tjurkmen, Mariyana Hristova and Musala Soft
 http://istabg.org/data-qualyti-do-you-trust-your-data/
 
 **Open Refine**
