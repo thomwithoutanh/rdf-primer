@@ -8,7 +8,7 @@ published: true
 
 There are many ways to store data that vary in terms of convenience and security. How you store your data should be measured against the particular risks you or your partners may be facing, and your personal priorities: for example, are you more concerned about data loss, or surveillance? These are extremely important questions. Perhaps it isn't so important to you if authorities have access to your data, but it would be disastrous if the data were somehow destroyed.
 
-Remember: no method of storing data is 100% safe, so it is essential that you backup your data, no matter how or where it is stored.  
+Remember: no method of storing data is 100% safe, so it is **essential** that you backup your data, no matter how or where it is stored.  
 
 ##Data storage
 
